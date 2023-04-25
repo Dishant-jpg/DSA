@@ -1,4 +1,4 @@
-package HackerRank_Answer;
+package hackerrank;
 import java.util.*;
 public class smaple3 {
     public static void main(String[] args) {
